@@ -7,45 +7,28 @@ I’m a Computer Science student with a passion for AI, embedded systems, and fu
 🔹 Experienced with Node.js, SQLite, React, and Flutter. 
 
 
+Most of the projects you’ll find here are **excerpts or selected modules** from larger work.  
+They’re meant to **showcase my coding style, problem-solving skills, and use of different languages**.  
+I’ve uploaded them recently all at once for convenience, so commit dates may not reflect when they were originally developed.
+
 
 
 🚀 Featured Projects
 
-🗄️ Key-Value Store (C)
-An implementation of a concurrent in-memory key-value store with:
-  - Bucket-level mutex locks and per-item read/write locks
-  - A worker thread pool with a request queue
-  - Core GET, SET, and DEL operations
-  - Demonstrates low-level concurrency and synchronization
+- **[photos-api-sample](./photos-api-sample)**  
+  Minimal RESTful API in Node.js with SQLite, showing routes, validation, and tests.
 
+- **[kvstore-excerpt-c](./kvstore-excerpt-c)**  
+  Concurrent key-value store in C with thread pool, bucket mutexes, and rwlocks.
 
+- **[sfs-excerpt-c](./sfs-excerpt-c)**  
+  Simple file system in C with path resolution, directory ops, and block table management.
 
-📂 Simple File System (C, FUSE)
+- **[allocator-excerpt-c](./allocator-excerpt-c)**  
+  Custom memory allocator in C with free list, split, coalesce, and realloc support.
 
-A user-space file system supporting:
-  - File and directory creation, deletion, and traversal
-  - Block allocation and free-space management
-  - Read, write, and truncate operations
-  - Implemented with the FUSE library
-
-
-
-🧩 Custom Memory Allocator (C)
-
-A malloc/calloc/realloc/free implementation with:
-  - Block splitting and coalescing
-  - Best-fit allocation strategy
-  - Free list management
-  - Ability to return memory back to the OS
-
-
-
-
-🌐 RESTful API Photo Service (Node.js + SQLite)
-
-Full CRUD API for storing and retrieving photos
-  - Clear error handling and validation
-  - Example of my web development and backend design skills
+- **[tetris-scala](./tetris-scala)**  
+  Tetris clone implemented in Scala, focusing on functional game logic and modular design.
 
     
 

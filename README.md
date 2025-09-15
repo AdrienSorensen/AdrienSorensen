@@ -13,23 +13,6 @@ I’ve uploaded them recently all at once for convenience, so commit dates may n
 
 
 
-🚀 Featured Projects
-
-- **[photos-api-sample](./photos-api-sample)**  
-  Minimal RESTful API in Node.js with SQLite, showing routes, validation, and tests.
-
-- **[kvstore-excerpt-c](./kvstore-excerpt-c)**  
-  Concurrent key-value store in C with thread pool, bucket mutexes, and rwlocks.
-
-- **[sfs-excerpt-c](./sfs-excerpt-c)**  
-  Simple file system in C with path resolution, directory ops, and block table management.
-
-- **[allocator-excerpt-c](./allocator-excerpt-c)**  
-  Custom memory allocator in C with free list, split, coalesce, and realloc support.
-
-- **[tetris-scala](./tetris-scala)**  
-  Tetris clone implemented in Scala, focusing on functional game logic and modular design.
-
     
 
 📫 Let’s Connect

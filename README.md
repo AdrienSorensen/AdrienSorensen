@@ -3,8 +3,12 @@
 I’m a Computer Science student with a passion for AI, embedded systems, and full-stack development. Over the years I’ve worked on both personal and academic projects ranging from operating system components to production-style web applications.
 
 🔹 Strong foundations in Python, C, Java, and JavaScript
+
 🔹 Experienced with Node.js, SQLite, React, and Flutter
+
 🔹 Special interest in system programming, concurrency, and applied AI
+
+
 
 🚀 Featured Projects
 
@@ -16,6 +20,7 @@ An implementation of a concurrent in-memory key-value store with:
   - Demonstrates low-level concurrency and synchronization
 
 
+
 📂 Simple File System (C, FUSE)
 
 A user-space file system supporting:
@@ -24,6 +29,8 @@ A user-space file system supporting:
   - Read, write, and truncate operations
   - Implemented with the FUSE library
 
+
+
 🧩 Custom Memory Allocator (C)
 
 A malloc/calloc/realloc/free implementation with:
@@ -31,6 +38,9 @@ A malloc/calloc/realloc/free implementation with:
   - Best-fit allocation strategy
   - Free list management
   - Ability to return memory back to the OS
+
+
+
 
 🌐 RESTful API Photo Service (Node.js + SQLite)
 

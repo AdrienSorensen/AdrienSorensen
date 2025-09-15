@@ -1,10 +1,6 @@
 👋 Hi, I’m Adrien Sorensen
 
-I’m a Computer Science student with a passion for AI, embedded systems, and full-stack development. Over the years I’ve worked on both personal and academic projects ranging from operating system components to production-style web applications.
-
-🔹 Strong foundations in Python, C++, C, Java, JavaScript and Scala.
-
-🔹 Experienced with Node.js, SQLite, React, and Flutter. 
+I’m a Third Year BSc Computer Science student with a passion for embedded systems, and full-stack development. Over the years I’ve worked on both personal and academic projects ranging from operating system components to production-style web applications.
 
 
 Most of the projects you’ll find here are **excerpts or selected modules** from larger work.  

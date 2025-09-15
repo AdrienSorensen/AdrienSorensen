@@ -2,11 +2,10 @@
 
 I’m a Computer Science student with a passion for AI, embedded systems, and full-stack development. Over the years I’ve worked on both personal and academic projects ranging from operating system components to production-style web applications.
 
-🔹 Strong foundations in Python, C, Java, and JavaScript
+🔹 Strong foundations in Python, C++, C, Java, JavaScript and Scala.
 
-🔹 Experienced with Node.js, SQLite, React, and Flutter
+🔹 Experienced with Node.js, SQLite, React, and Flutter. 
 
-🔹 Special interest in system programming, concurrency, and applied AI
 
 
 
